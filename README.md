@@ -14,7 +14,7 @@ You will also need to have access to the Pokeapi web service, which exposes deta
 
 ## Installation
 
-1. Clone this repository: `git clone [https://github.com/your_username/pokemon-search.git]'
+1. Clone this repository: `git clone [https://github.com/your_username/pokemon-search.git]`
 3. Install dependencies: `pip install requests Pillow matplotlib`
 4. Run the script: `python pokemon_search.py`
 5. Enter the name of the Pokemon you want to search for ID or Name
